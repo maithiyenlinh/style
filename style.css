@@ -212,6 +212,10 @@ nav {
         border: 0;
     }
 
+    .decoration {
+        display: none;
+    }
+
 }
 
 /* small screen */
